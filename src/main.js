@@ -8,7 +8,6 @@ import {createLoadMoreButtonTemplate} from './components/load-more-button.js';
 import {generateTaskCard} from './mock/task.js';
 import {generateFilters} from './mock/filter.js';
 
-// const TASK_COUNT = 3;
 const TASK_COUNT_LOAD = 8;
 const MAX_TASK_COUNT = 20;
 
